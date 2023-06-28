@@ -13,7 +13,7 @@ class Huy_Bach:
     self.school = "CTU 🐘"
     self.hobbies = ["music", "gaming", "coding"]
     self.programming_languages = ["JavaScript"],
-    self.frameworks_libraries = ["reactjs", "nodejs", "vuejs",]
+    self.frameworks_libraries = ["reactjs", "nodejs", "vuejs", "redux"]
 ```
 
 <h3>Contact me:</h3>
