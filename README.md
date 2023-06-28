@@ -6,19 +6,20 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huybach02&theme=react&layout=compact&langs_count=10">
 </div>
 
+```python
+class Huy_Bach:
+  def __init__(self):
+    self.class = 2025
+    self.school = "CTU 🐘"
+    self.hobbies = ["music", "gaming", "coding"]
+    self.programming_languages = ["JavaScript"],
+    self.frameworks_libraries = ["reactjs", "nodejs", "vuejs",]
+```
 
 <h3>Contact me:</h3>
 <a href=https://www.facebook.com/imbacksss> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> </a>
 
-```python
-class Daniel_Truong:
-  def __init__(self):
-    self.class = 2024
-    self.school = "CSUF 🐘"
-    self.pronouns = "he/him"
-    self.hobbies = ["basketball", "programming", "music", "Youtube"]
-    self.programming_languages = ["Python", "TypeScript", "JavaScript", "Swift"]
-```
+
 
 <h3>Programming Languages:</h3>
 <div display=""flex">
