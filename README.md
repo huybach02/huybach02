@@ -12,8 +12,8 @@ class Huy_Bach:
     self.class = 2025
     self.school = "CTU 🐘"
     self.hobbies = ["music", "gaming", "coding"]
-    self.programming_languages = ["JavaScript"],
-    self.frameworks_libraries = ["reactjs", "nodejs", "vuejs", "redux"]
+    self.favorite_language = ["JavaScript"],
+    self.favorite_frameworks_libraries = ["reactjs", "nodejs", "vuejs", "redux"]
 ```
 
 <h3>Contact me:</h3>
