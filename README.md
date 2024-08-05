@@ -7,14 +7,24 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huybach02&theme=react&layout=compact&langs_count=10">
 </div>
 
-```python
-class Huy_Bach:
-  def __init__(self):
-    self.class = 2025
-    self.school = "CTU 🐘"
-    self.hobbies = ["music", "gaming", "coding"]
-    self.favorite_language = ["JavaScript"],
-    self.favorite_frameworks_libraries = ["reactjs", "nodejs", "vuejs", "redux"]
+```php
+class Huy_Bach {
+    public $graduation_year;
+    public $school;
+    public $hobbies;
+    public $favorite_language;
+    public $favorite_frameworks_libraries;
+    public $database;
+
+    public function __construct() {
+        $this->graduation_year = 2025;
+        $this->school = "CTU 🐘";
+        $this->hobbies = ["music", "gaming", "coding"];
+        $this->favorite_language = ["JavaScript","PHP"];
+        $this->favorite_frameworks_libraries = ["Reactjs", "NextJS", "Nodejs", "Laravel", "Bootstrap", "Taildwind"];
+        $this->database = ["MySQL","MongoDB"];
+    }
+}
 ```
 
 <h3>Contact me:</h3>
