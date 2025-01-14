@@ -53,5 +53,6 @@ class Huy_Bach {
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-      <img src="https://img.shields.io/badge/nest.js-%2338B2AC.svg?style=for-the-badge&logo=nest.js&logoColor=white">
+      <img src="https://img.shields.io/badge/nest.js-%23323330.svg?style=for-the-badge&logo=nest.js&logoColor=white">
+          <img src="https://img.shields.io/badge/laravel-%2338B2AC.svg?style=for-the-badge&logo=laravel&logoColor=white">
 </div>
